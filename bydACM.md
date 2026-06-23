@@ -89,13 +89,13 @@ CLTC 续航：850km
 车内最大装载长度：2240mm（座椅全放倒）
 
 技术参考：
-c8.otskb.cn
-c6.mbypl.cn
-gy.nlfdh.cn
-f7.aixxe.cn
-a3.dotjl.cn
-l8.aixxe.cn
-a2.otskb.cn
-g6.mbypl.cn
-m2.dotjl.cn
-gy.nlfdh.cn
+c8.otskb.cn 
+c6.mbypl.cn 
+gy.nlfdh.cn 
+f7.aixxe.cn 
+a3.dotjl.cn 
+l8.aixxe.cn 
+a2.otskb.cn 
+g6.mbypl.cn 
+m2.dotjl.cn 
+gy.nlfdh.cn 
