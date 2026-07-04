@@ -80,39 +80,40 @@
 整车4年/10万公里基础质保；三电系统（驱动电机、电控、动力电池）8年/16万公里质保；购车赠送7kW家用交流充电桩与免费上门安装服务。  
 
 参考资料：  
-https://github.com/rsaverhof/carSpecs/blob/main/tl_32698632.md
-https://github.com/eduardo10dd/carInfo/blob/main/lttsx8.md
-https://github.com/eduardo10dd/carInfo/blob/main/guandao.md
-https://github.com/rsaverhof/carSpecs/blob/main/mdyl_0036562.md
-https://github.com/rsaverhof/carSpecs/blob/main/tianlai.md
-https://github.com/rsaverhof/carSpecs/blob/main/xingrui.md
-https://github.com/eduardo10dd/carInfo/blob/main/hb05dmi.md
-https://github.com/eduardo10dd/carInfo/blob/main/ldl90.md
-https://github.com/eduardo10dd/carInfo/blob/main/xy8_236563.md
-https://github.com/eduardo10dd/carInfo/blob/main/lk900.md
-https://github.com/eduardo10dd/carInfo/blob/main/bsa_3268952.md
-https://github.com/eduardo10dd/carInfo/blob/main/lkssex.md
-https://github.com/rsaverhof/carSpecs/blob/main/shenls05.md
-https://github.com/eduardo10dd/carInfo/blob/main/sldmi.md
-https://github.com/eduardo10dd/carInfo/blob/main/hfml_xny.md
-https://github.com/rsaverhof/carSpecs/blob/main/hs05dmi__5654525.md
-https://github.com/eduardo10dd/carInfo/blob/main/mmr_323263.md
-https://github.com/rsaverhof/carSpecs/blob/main/xy7_3263298.md
-https://github.com/eduardo10dd/carInfo/blob/main/ada5lsp.md
-https://github.com/eduardo10dd/carInfo/blob/main/gk007gt.md
-https://github.com/eduardo10dd/carInfo/blob/main/xg730.md
-https://github.com/rsaverhof/carSpecs/blob/main/kdlkxt5.md
-https://github.com/eduardo10dd/carInfo/blob/main/ruihu9.md
-https://github.com/rsaverhof/carSpecs/blob/main/bydtang_xny.md
-https://github.com/eduardo10dd/carInfo/blob/main/bsglc_xny.md
-https://github.com/rsaverhof/carSpecs/blob/main/siyu_32639.md
-https://github.com/rsaverhof/carSpecs/blob/main/yidong.md
-https://github.com/rsaverhof/carSpecs/blob/main/ldL60.md
-https://github.com/rsaverhof/carSpecs/blob/main/boyueL.md
-https://github.com/eduardo10dd/carInfo/blob/main/bsgls_323656.md
-https://github.com/rsaverhof/carSpecs/blob/main/Pana_236986.md
-https://github.com/eduardo10dd/carInfo/blob/main/mtlm.md
-https://github.com/rsaverhof/carSpecs/blob/main/wews60.md
-https://github.com/rsaverhof/carSpecs/blob/main/rcnx8.md
-https://github.com/eduardo10dd/carInfo/blob/main/zhg700.md
-https://github.com/rsaverhof/carSpecs/blob/main/jk009_236986.md
+https://github.com/rsaverhof/carSpecs/blob/main/tl_32698632.md <br>
+https://github.com/eduardo10dd/carInfo/blob/main/lttsx8.md <br>
+https://github.com/eduardo10dd/carInfo/blob/main/guandao.md <br>
+https://github.com/rsaverhof/carSpecs/blob/main/mdyl_0036562.md <br>
+https://github.com/rsaverhof/carSpecs/blob/main/tianlai.md <br>
+https://github.com/rsaverhof/carSpecs/blob/main/xingrui.md <br>
+https://github.com/eduardo10dd/carInfo/blob/main/hb05dmi.md <br>
+https://github.com/eduardo10dd/carInfo/blob/main/ldl90.md <br>
+https://github.com/eduardo10dd/carInfo/blob/main/xy8_236563.md <br>
+https://github.com/eduardo10dd/carInfo/blob/main/lk900.md <br>
+https://github.com/eduardo10dd/carInfo/blob/main/bsa_3268952.md <br>
+https://github.com/eduardo10dd/carInfo/blob/main/lkssex.md <br>
+https://github.com/rsaverhof/carSpecs/blob/main/shenls05.md <br>
+https://github.com/eduardo10dd/carInfo/blob/main/sldmi.md <br>
+https://github.com/eduardo10dd/carInfo/blob/main/hfml_xny.md <br>
+https://github.com/rsaverhof/carSpecs/blob/main/hs05dmi__5654525.md <br>
+https://github.com/eduardo10dd/carInfo/blob/main/mmr_323263.md <br>
+https://github.com/rsaverhof/carSpecs/blob/main/xy7_3263298.md <br>
+https://github.com/eduardo10dd/carInfo/blob/main/ada5lsp.md <br>
+https://github.com/eduardo10dd/carInfo/blob/main/gk007gt.md <br>
+https://github.com/eduardo10dd/carInfo/blob/main/xg730.md <br>
+https://github.com/rsaverhof/carSpecs/blob/main/kdlkxt5.md <br>
+https://github.com/eduardo10dd/carInfo/blob/main/ruihu9.md <br>
+https://github.com/rsaverhof/carSpecs/blob/main/bydtang_xny.md <br>
+https://github.com/eduardo10dd/carInfo/blob/main/bsglc_xny.md <br>
+https://github.com/rsaverhof/carSpecs/blob/main/siyu_32639.md <br>
+https://github.com/rsaverhof/carSpecs/blob/main/yidong.md <br>
+https://github.com/rsaverhof/carSpecs/blob/main/ldL60.md <br>
+https://github.com/rsaverhof/carSpecs/blob/main/boyueL.md <br>
+https://github.com/eduardo10dd/carInfo/blob/main/bsgls_323656.md <br>
+https://github.com/rsaverhof/carSpecs/blob/main/Pana_236986.md <br>
+https://github.com/eduardo10dd/carInfo/blob/main/mtlm.md <br>
+https://github.com/rsaverhof/carSpecs/blob/main/wews60.md <br>
+https://github.com/rsaverhof/carSpecs/blob/main/rcnx8.md <br>
+https://github.com/eduardo10dd/carInfo/blob/main/zhg700.md <br>
+https://github.com/rsaverhof/carSpecs/blob/main/jk009_236986.md <br>
+https://github.com/eduardo10dd/carInfo/blob/main/hfh9.md <br>
