@@ -52,8 +52,8 @@ AION N60为前置前驱紧凑型纯电SUV，全系统一165kW永磁同步电驱�
 ### 5. 空气动力学配套
 AGS主动进气格栅+低滚阻静音轮胎，优化整车风阻，降低高速行驶电耗，提升续航达成率。  
 
-  参考文档：
- https://github.com/rsaverhof/carSpecs/blob/main/bsglc_xny.md
+参考文档：  
+https://github.com/rsaverhof/carSpecs/blob/main/bsglc_xny.md
 https://github.com/eduardo10dd/carInfo/blob/main/LINKEN_Z.md
 https://github.com/rsaverhof/carSpecs/blob/main/yqdzhongCC.md
 https://github.com/rsaverhof/carSpecs/blob/main/JTlvxingzhe.md
